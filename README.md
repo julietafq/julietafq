@@ -43,6 +43,7 @@ I am a freelance computer engineering student. I am expanding my knowledge in bo
     
 </span>
 
+<h2> Github stats </h2>
 
 [![](https://github-readme-stats.vercel.app/api?username=julietafq&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Julietafq)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=julietafq&theme=material-palenight)](https://github.com/Julietafq)
